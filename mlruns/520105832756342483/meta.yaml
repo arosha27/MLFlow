@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/520105832756342483
+creation_time: 1757162385446
+experiment_id: '520105832756342483'
+last_update_time: 1757162385446
+lifecycle_stage: active
+name: RandomForestClassifier

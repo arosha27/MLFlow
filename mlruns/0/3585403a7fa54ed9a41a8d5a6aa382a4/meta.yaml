@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3585403a7fa54ed9a41a8d5a6aa382a4/artifacts
+end_time: 1757160977366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3585403a7fa54ed9a41a8d5a6aa382a4
+run_name: redolent-dolphin-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757160976154
+status: 3
+tags: []
+user_id: PMYLS

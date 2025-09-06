@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/520105832756342483/0e2a9461e71f4f72bc235ad5e5ee5225/artifacts
+end_time: 1757162386632
+entry_point_name: ''
+experiment_id: '520105832756342483'
+lifecycle_stage: active
+run_id: 0e2a9461e71f4f72bc235ad5e5ee5225
+run_name: debonair-crane-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757162385739
+status: 3
+tags: []
+user_id: PMYLS

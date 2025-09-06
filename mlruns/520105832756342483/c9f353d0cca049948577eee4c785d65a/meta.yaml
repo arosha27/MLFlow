@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/520105832756342483/c9f353d0cca049948577eee4c785d65a/artifacts
+end_time: 1757162694657
+entry_point_name: ''
+experiment_id: '520105832756342483'
+lifecycle_stage: active
+run_id: c9f353d0cca049948577eee4c785d65a
+run_name: bald-sheep-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757162682413
+status: 3
+tags: []
+user_id: PMYLS
