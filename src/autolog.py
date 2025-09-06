@@ -23,6 +23,7 @@ X_train , X_test , y_train , y_test = train_test_split(X ,y , test_size = 0.20 ,
 max_depth = 3
 n_estimators = 20
 
+mlflow.autolog()
 mlflow.set_experiment("RandomForestClassifier-EX2")
 #Experiment Tracking through mlflow
 with mlflow.start_run():
@@ -31,10 +32,7 @@ with mlflow.start_run():
     
     y_pred = rf.predict(X_test)
     accuracy = accuracy_score(y_test , y_pred)
-    
-    mlflow.log_metric("accuracy" , accuracy)
-    mlflow.log_param("n_estimators" , n_estimators)
-    mlflow.log_param("max_depth" , max_depth)
+
     
     #Creating  a confusion matrix plot
     cm = confusion_matrix(y_test , y_pred)
@@ -48,15 +46,11 @@ with mlflow.start_run():
     plt.savefig("Confusion_matrix.png")
     
     #log artifacts using mlflow
-    mlflow.log_artifact("Confusion_matrix.png")
+
     mlflow.log_artifact(__file__)
     
     #set tags
     mlflow.set_tags({"Author":"Arosha" , "Project" : "Wine Classification"})
-    
-    # Log the saved folder as an 
-    mlflow.sklearn.save_model(rf , "rl_model")
-    mlflow.log_artifacts("rl_model", artifact_path="models")
     
     print(accuracy)
     
