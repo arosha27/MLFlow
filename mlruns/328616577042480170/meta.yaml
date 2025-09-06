@@ -1,0 +1,6 @@
+artifact_location: file:///E:/SummerProgram/Projects/MLFlow/mlruns/328616577042480170
+creation_time: 1757186587902
+experiment_id: '328616577042480170'
+last_update_time: 1757186587902
+lifecycle_stage: active
+name: breast-cancer-rf-hp

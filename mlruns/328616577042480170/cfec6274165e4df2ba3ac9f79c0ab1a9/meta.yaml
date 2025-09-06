@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SummerProgram/Projects/MLFlow/mlruns/328616577042480170/cfec6274165e4df2ba3ac9f79c0ab1a9/artifacts
+deleted_time: 1757187621655
+end_time: 1757187433427
+entry_point_name: ''
+experiment_id: '328616577042480170'
+lifecycle_stage: deleted
+run_id: cfec6274165e4df2ba3ac9f79c0ab1a9
+run_name: likeable-kite-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187425785
+status: 4
+tags: []
+user_id: PMYLS

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SummerProgram/Projects/MLFlow/mlruns/328616577042480170/9205d30d1d7448208e4ee25e4c235a10/artifacts
+deleted_time: 1757188223528
+end_time: 1757187433425
+entry_point_name: ''
+experiment_id: '328616577042480170'
+lifecycle_stage: deleted
+run_id: 9205d30d1d7448208e4ee25e4c235a10
+run_name: melodic-carp-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187433338
+status: 4
+tags: []
+user_id: PMYLS

@@ -1,0 +1,10 @@
+artifact_location: file:///E:/SummerProgram/Projects/MLFlow/mlruns/328616577042480170/models/m-c8b50d58aefc4c838905e9a8069b5097/artifacts
+creation_timestamp: 1757187581080
+experiment_id: '328616577042480170'
+last_updated_timestamp: 1757187592134
+model_id: m-c8b50d58aefc4c838905e9a8069b5097
+model_type: null
+name: RandomForest
+source_run_id: 28266b746ecd48c09ceb867395cb60fa
+status: 2
+status_message: null

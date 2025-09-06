@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/SummerProgram/Projects/MLFlow/mlruns/328616577042480170/e7a6dad5f29e48e79f9ca2d9cf8483ad/artifacts
+end_time: 1757187580379
+entry_point_name: ''
+experiment_id: '328616577042480170'
+lifecycle_stage: active
+run_id: e7a6dad5f29e48e79f9ca2d9cf8483ad
+run_name: gaudy-fox-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187580326
+status: 3
+tags: []
+user_id: PMYLS

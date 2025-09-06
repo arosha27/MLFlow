@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/SummerProgram/Projects/MLFlow/mlruns/328616577042480170/6315822d560243509eb142a6ddba785d/artifacts
+end_time: 1757187580908
+entry_point_name: ''
+experiment_id: '328616577042480170'
+lifecycle_stage: active
+run_id: 6315822d560243509eb142a6ddba785d
+run_name: thundering-lynx-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187580862
+status: 3
+tags: []
+user_id: PMYLS

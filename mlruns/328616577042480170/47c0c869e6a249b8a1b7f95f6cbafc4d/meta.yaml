@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/SummerProgram/Projects/MLFlow/mlruns/328616577042480170/47c0c869e6a249b8a1b7f95f6cbafc4d/artifacts
+end_time: 1757187580261
+entry_point_name: ''
+experiment_id: '328616577042480170'
+lifecycle_stage: active
+run_id: 47c0c869e6a249b8a1b7f95f6cbafc4d
+run_name: funny-mouse-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187580202
+status: 3
+tags: []
+user_id: PMYLS

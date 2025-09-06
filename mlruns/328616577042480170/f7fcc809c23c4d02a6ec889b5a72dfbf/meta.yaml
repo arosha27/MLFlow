@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SummerProgram/Projects/MLFlow/mlruns/328616577042480170/f7fcc809c23c4d02a6ec889b5a72dfbf/artifacts
+deleted_time: 1757187621652
+end_time: 1757187479222
+entry_point_name: ''
+experiment_id: '328616577042480170'
+lifecycle_stage: deleted
+run_id: f7fcc809c23c4d02a6ec889b5a72dfbf
+run_name: auspicious-koi-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187472308
+status: 4
+tags: []
+user_id: PMYLS

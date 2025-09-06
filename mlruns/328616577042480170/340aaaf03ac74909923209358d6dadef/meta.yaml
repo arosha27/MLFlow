@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SummerProgram/Projects/MLFlow/mlruns/328616577042480170/340aaaf03ac74909923209358d6dadef/artifacts
+deleted_time: 1757188223531
+end_time: 1757187479220
+entry_point_name: ''
+experiment_id: '328616577042480170'
+lifecycle_stage: deleted
+run_id: 340aaaf03ac74909923209358d6dadef
+run_name: receptive-gull-279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187479132
+status: 4
+tags: []
+user_id: PMYLS

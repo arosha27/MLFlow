@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/SummerProgram/Projects/MLFlow/mlruns/328616577042480170/28266b746ecd48c09ceb867395cb60fa/artifacts
+end_time: 1757187592161
+entry_point_name: ''
+experiment_id: '328616577042480170'
+lifecycle_stage: active
+run_id: 28266b746ecd48c09ceb867395cb60fa
+run_name: dapper-pig-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187573416
+status: 3
+tags: []
+user_id: PMYLS
